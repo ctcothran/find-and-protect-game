@@ -1,3 +1,3 @@
 # find-and-protect-game
 
-Just a fun prject to learn game development. Nothing fancy to see here.
+Just a fun project to learn game development. Nothing fancy to see here.
