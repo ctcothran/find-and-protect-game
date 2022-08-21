@@ -39,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
         foreach(Collider2D enemy in hitEnemies)
         {
             Debug.Log("Hit " + enemy.name);
+            enemy.GetComponent<Enemy>().KnockBack(transform);
         }
     }
 
